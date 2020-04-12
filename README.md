@@ -3,7 +3,7 @@ Attempt to use particle counting technology as a potential means to detect COVID
 
 Starting source
 
-[PAPER - (W. Birmili et al) - "The potential for screening and tracking of covid-19 using particle counters (version 2)](https://necsi.edu/the-potential-for-screening-and-tracking-of-covid19-using-particle-counters)
+["The potential for screening and tracking of covid-19 using particle counters (version 2)](https://necsi.edu/the-potential-for-screening-and-tracking-of-covid19-using-particle-counters)
 
 ## Rationale
 
@@ -14,7 +14,7 @@ Create an early warning system to detect SARS-COV-2 in droplets aerosols with 2 
 
 ## Starting Links
 
-[Particle number size distributions in urban air before and after volatilisation](https://www.atmos-chem-phys.net/10/4643/2010/)
+[PAPER - (W. Birmili et al) - Particle number size distributions in urban air before and after volatilisation](https://www.atmos-chem-phys.net/10/4643/2010/)
 
 ## Technologies / Instruments
 
