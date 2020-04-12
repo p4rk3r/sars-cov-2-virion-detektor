@@ -3,7 +3,7 @@ Attempt to use particle counting technology as a potential means to detect COVID
 
 Starting source
 
-[THE POTENTIAL FOR SCREENING AND TRACKING OF COVID-19 USING PARTICLE COUNTERS VERSION 2](https://necsi.edu/the-potential-for-screening-and-tracking-of-covid19-using-particle-counters)
+[Paper (W. Birmili et al) - "THE POTENTIAL FOR SCREENING AND TRACKING OF COVID-19 USING PARTICLE COUNTERS (VERSION 2)](https://necsi.edu/the-potential-for-screening-and-tracking-of-covid19-using-particle-counters)
 
 ## Rationale
 
