@@ -16,6 +16,10 @@ Create an early warning system to detect SARS-COV-2 in droplets aerosols with 2 
 
 [PAPER - (W. Birmili et al) - Particle number size distributions in urban air before and after volatilisation](https://www.atmos-chem-phys.net/10/4643/2010/)
 
+## Problem statement
+
+## [Droplets](droplets.md)
+
 ## Technologies / Instruments
 
 * SMPS (Scanning Mobility Particle Sizer) spectrometers with UV light
