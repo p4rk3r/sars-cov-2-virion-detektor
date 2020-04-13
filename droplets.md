@@ -1,6 +1,6 @@
-#Information about droplets
+# Information about droplets
 
-##Characterization
+## Characterization
 
 ### Sizes
 
