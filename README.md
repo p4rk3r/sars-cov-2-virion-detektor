@@ -20,4 +20,4 @@ Create an early warning system to detect SARS-COV-2 in droplets aerosols with 2 
 
 * SMPS (Scanning Mobility Particle Sizer) spectrometers with UV light
 * Aerodynamic Particles Sizer - UV radiation
-* Ramman spectroscopy
+* Raman spectroscopy
