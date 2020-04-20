@@ -25,3 +25,17 @@ Create an early warning system to detect SARS-COV-2 in droplets aerosols with 2 
 * SMPS (Scanning Mobility Particle Sizer) spectrometers with UV light
 * Aerodynamic Particles Sizer - UV radiation
 * Raman spectroscopy
+
+## Raman spectroscopy 
+
+Below few of the starting papers I am reading at the moment: 
+
+[PAPER - Efficiency enhancement of Raman spectroscopy at long working distance by parabolic reflector](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695967/)
+
+[PAPER - Tracking Airborne Molecules from Afar: Three- Dimensional Metal−Organic Framework- Surface-Enhanced Raman Scattering Platform for Stand-Off and Real-Time Atmospheric Monitoring](https://www.dropbox.com/s/uw93dzfgnb0p543/phan-quang2019.pdf?dl=0)
+
+[PAPER - Detection and characterization of chemical and biological aerosols using laser-trapping single-particle Raman spectroscopy](https://www.dropbox.com/s/4tcljx4nuwtajop/DETECTION_AND_CHARACTERIZATION_OF_CHEMICAL_AND_BIOLOGICAL_AEROSOLS_USING_LASER-TRAPPING_SINGLE-PARTICLE_RAMAN_SPECTROSCOPY_AIR18030FU1.pdf?dl=0)
+
+
+
+
